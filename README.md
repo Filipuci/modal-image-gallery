@@ -52,5 +52,6 @@ Projeto criado como exercício prático para consolidar conceitos de React e Typ
 
 ## 📸 Preview
 
-![Gallery]()
-![Modal]()
+
+![Gallery](./public/preview1.jpg)
+![Modal](./public/preview2.jpg)
