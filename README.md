@@ -1,4 +1,4 @@
-# 🖼️ React Image Gallery with Modal
+# React Image Gallery with Modal
 
 Pequena aplicação desenvolvida em **React + TypeScript** que exibe uma galeria de imagens em grid, permitindo visualizar cada imagem em tamanho ampliado através de um modal reutilizável.
 
@@ -6,7 +6,7 @@ O projeto foi construído com foco em **componentização**, **gerenciamento de 
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Grid responsivo de imagens  
 - Abertura de modal ao clicar em uma imagem  
@@ -16,7 +16,7 @@ O projeto foi construído com foco em **componentização**, **gerenciamento de 
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - React  
 - TypeScript  
@@ -24,7 +24,7 @@ O projeto foi construído com foco em **componentização**, **gerenciamento de 
 
 ---
 
-## 📚 Conceitos aplicados
+## Conceitos aplicados
 
 - Componentização  
 - useState para controle de UI  
@@ -35,7 +35,7 @@ O projeto foi construído com foco em **componentização**, **gerenciamento de 
 
 ---
 
-## ▶️ Como rodar o projeto
+## Como rodar o projeto
 
 ```bash
 npm install
